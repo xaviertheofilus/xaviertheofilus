@@ -1,16 +1,18 @@
-## Hi there 👋
+## Profile xaviertheofilus 👋
 
-<!--
-**xaviertheofilus/xaviertheofilus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Robotics and AI Enthusiast| Python Developer 
 
-Here are some ideas to get you started:
+👋 Hi, I’m Xavier! I have over 1 years of professional experience,specializing in Python programming, Robotics Automation, IoT, and AI implementation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 I hold a Barchelor of Engineer in Robotics and AI, where I focused on Applied AI and Project Management.
+
+🛠 Skills:
+- Python
+- AI and Generative AI
+- Linux Systems
+- AWS Cloud (EC2)
+
+
+🎮 Interests:
+- Artificial Intelligence
+- IoT Systems
