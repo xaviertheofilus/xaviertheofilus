@@ -1,6 +1,3 @@
-![xaviertheofilus](img/github-header-1.png)
-
-
 <!-- 👋 Hi, I’m Xavier! I have over 1 years of professional experience,specializing in Python programming, Robotics Automation, IoT, and AI implementation.
 
 📚 I hold a Barchelor of Engineer in Robotics and AI, where I focused on Applied AI and Project Management.
