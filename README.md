@@ -30,12 +30,6 @@
 ![http://instagram.com/xaviertheoofilus](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![http://linkedin.com/in/xaviertheofilus](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
-##### 📊 My Github Stats
-
-![xaviertheofilus GitHub stats](https://github-readme-stats.vercel.app/api?username=xaviertheofilus&show_icons=true&theme=dark) -->
-
-
-
 👋 Hi, I’m Xavier! I have over 1 years of professional experience,specializing in Python programming, Robotics Automation, IoT, and AI implementation.<br><br>📚 I hold a Barchelor of Engineer in Robotics and AI, where I focused on Applied AI and Project Management.
 
 ##### 🌐 Socials:
